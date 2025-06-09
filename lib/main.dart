@@ -83,7 +83,7 @@ class _TelaIMCState extends State<TelaIMC> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Tela de Login"),
-        backgroundColor: Colors.brown,
+        backgroundColor: Colors.purple,
         actions: const [
           Padding(
             padding: EdgeInsets.all(8.0),
